@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hey, I'm reese (@reesefx294)
 
-<!--
-**reesefx294/reesefx294** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web developer at Creative Lab in Singapore. Most of my time goes into writing TypeScript, building internal web tools, and messing around with lightweight databases.
 
-Here are some ideas to get you started:
+#### What I'm into
+- Building minimal full-stack tools (Node.js, React, SQLite)
+- Exploring local-first web apps and offline sync
+- Automating repetitive dev workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tech Stack
+- **Languages:** TypeScript, JavaScript, SQL, HTML/CSS
+- **Backend:** Node.js, Express, SQLite, PostgreSQL
+- **Frontend:** React, Tailwind CSS, Vite
+- **Tools:** Git, Docker, Vitest
+
+#### Reach out
+- Email: reese.builds@pm.me
+- Twitter: [@reesefx](https://x.com)
+- LinkedIn: [/in/reesefx](https://linkedin.com)
